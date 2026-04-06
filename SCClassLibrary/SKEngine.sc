@@ -1,4 +1,4 @@
-Engine {
+SKEngine {
     classvar <default;
 
     var <clock;

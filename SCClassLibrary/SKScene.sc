@@ -1,4 +1,4 @@
-Scene {
+SKScene {
     var <name;
     var <trackConfigs;
     var <fxConfig;

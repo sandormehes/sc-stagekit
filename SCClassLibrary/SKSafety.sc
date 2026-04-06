@@ -1,4 +1,4 @@
-Safety {
+SKSafety {
     var <server;
     var <limiterSynth;
     var <masterBus;

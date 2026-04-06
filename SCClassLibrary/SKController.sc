@@ -1,4 +1,4 @@
-Controller {
+SKController {
     var <engine;
     var <ccBindings;
     var <noteBindings;

@@ -1,4 +1,4 @@
-Track {
+SKTrack {
     var <name;
     var <engine;
     var <patternSource;

@@ -1,4 +1,4 @@
-Mixer {
+SKMixer {
     var <server;
     var <masterBus;
     var <trackBuses;

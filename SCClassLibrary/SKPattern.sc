@@ -1,4 +1,4 @@
-Pattern {
+SKPattern {
     var <name;
     var <builder;
     var <defaults;

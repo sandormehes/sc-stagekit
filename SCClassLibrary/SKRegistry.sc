@@ -1,4 +1,4 @@
-Registry {
+SKRegistry {
     classvar <patterns;
     classvar <scenes;
 
